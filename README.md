@@ -3,7 +3,7 @@ Application Rent For You
 รายงานการออกแบบ GUI ของระบบเว็บไซต์ดูวิดีโดออนไลน์
 ขออนุญาตใช้รูปภาพประกอบการนำเสนอมา ณ ที่นี้ด้วยนะครับ 
 
-แบบสอบถาม : https://docs.google.com/forms/d/1dCvJr7aekDmd_qTQkKyqe1RY92r3_HnZGHsbrEYpZrg/edit?usp=sharing
+แบบสอบถาม : https://forms.gle/FURzxi9pAJKAk5iP6
 คลิป YouTube: https://youtu.be/wwZtKQq16uQ
 
 
